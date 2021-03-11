@@ -1,4 +1,4 @@
-from utils.BasicORM.errors import FieldDoesNotExist
+from BasicORM.errors import FieldDoesNotExist
 
 
 class BaseModelValidations(object):

@@ -1,6 +1,6 @@
 from typing import NamedTuple, Any, List
-from utils.BasicORM.connection import DataBaseConnection
-from utils.BasicORM.validate import BaseModelValidations
+from BasicORM.connection import DataBaseConnection
+from BasicORM.validate import BaseModelValidations
 
 
 class FilterConditional(NamedTuple):
